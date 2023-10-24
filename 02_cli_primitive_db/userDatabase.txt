@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Mazda Pink",
+    "gender": "Male",
+    "age": 30
+  },
+  {
+    "name": "Rasta Elphie",
+    "gender": "Female",
+    "age": 25
+  },
+  {
+    "name": "John Week",
+    "gender": "Male",
+    "age": 28
+  },
+  {
+    "name": "Emanuel Macron",
+    "gender": "Female",
+    "age": 48
+  },
+  {
+    "name": "meuf",
+    "gender": "Male",
+    "age": "28"
+  },
+  {
+    "name": "keuf",
+    "gender": "Female",
+    "age": "10"
+  },
+  {
+    "name": "Innochka",
+    "gender": "Female",
+    "age": "18"
+  },
+  {
+    "name": "meufaks",
+    "gender": "Male",
+    "age": "39"
+  },
+  {
+    "name": "hello kitty",
+    "gender": "Female",
+    "age": "200"
+  }
+]
